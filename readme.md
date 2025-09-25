@@ -60,6 +60,8 @@ Auth: JWT, bcrypt
 Tools: Postman (API testing), GitHub
 
 📂 Folder Structure
+
+```bash
 project-root/
 │── client/          # React frontend
 │   ├── src/
@@ -84,7 +86,7 @@ project-root/
 │
 │── README.md
 │── taskManager.postman_collection.json
-
+```
 
 ⚡ Setup Instructions
 🔹 Clone the repo
